@@ -47,8 +47,8 @@ pip install plotly.express
 
 ## Fichiers de Données Requis
 Assurez-vous d'avoir les fichiers CSV suivants dans votre répertoire de projet :
-- data_ville_annuel.csv
-- data_ville_mensuel.csv
+- data_ville_annuel.csv (Un fichier qu'on n'a pas pu charger car sa taille dépasse la limite autorisée par GitHub)
+- data_ville_mensuel.csv (Un fichier qu'on n'a pas pu charger car sa taille dépasse la limite autorisée par GitHub)
 - catastrophes_naturelles_annuelles_dep_incendies.csv
 - catastrophes_naturelles_mensuelles_dep_incendies.csv
 - lignes_points_proches10.csv
